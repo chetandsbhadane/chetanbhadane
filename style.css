@@ -161,3 +161,23 @@ body{
     background-color: white;
     font-weight: 700;
 }
+
+/* website visits counter */
+/* .web-visits:hover{
+  background-color: white;
+} */
+
+.web-visits{
+  background: black;
+  color: yellowgreen;
+}
+
+/* #visits:hover{
+  background-color: white;
+} */
+
+#visits{
+  margin: 5px 2px;
+  background: black;
+  color: yellowgreen;
+}
